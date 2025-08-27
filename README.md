@@ -29,3 +29,7 @@ El preprocesamiento del texto incluye:
  ```bash
  jupyter notebook tfidf.ipyn
  ```
+
+
+## 🚀 Ejecutar en colab 🚀
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yuritzi15/TF-IDF/blob/main/tfidf.ipynb)
